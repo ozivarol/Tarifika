@@ -1,5 +1,5 @@
 ## Tarifika
-#### Yemek tariflerinin bulunduğu mobil app
+#### React-Native ile yazılmış yemek tariflerinin bulunduğu mobil app
 
 ![](Screenshot_1.jpg)
 ###
